@@ -6,4 +6,5 @@
  * -npm install moment
  * -import moment from 'moment';
  * use react-marquee
+ * use react icon
  * */
